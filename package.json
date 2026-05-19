@@ -1,0 +1,22 @@
+{
+  "name": "3d-golden-ring-animation",
+  "version": "1.0.0",
+  "description": "3D Golden Ring Animation with drawing and rotation effects",
+  "main": "3d-golden-ring.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^9.93.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
